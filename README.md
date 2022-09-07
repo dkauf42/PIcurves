@@ -3,4 +3,4 @@ Functions and a walkthrough to visualize common photosynthesis-irradiance relati
 
 Evans             |  Platt
 :-------------------------:|:-------------------------:
-<img src="/Evans.jpg" width="300">  |  <img src="/Platt.tif" width="300">
+<img src="/Evans.jpg" width="300">  |  <img src="/Platt.png" width="300">
